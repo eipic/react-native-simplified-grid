@@ -1,5 +1,8 @@
 **** REACT NATIVE CUSTOM 2-COLUMN GRID ****
 
+![alt text](https://github.com/eipic/react-native-confirmation-prompt/blob/master/sample.jpg)
+
+
 Instructions:
 1. Install the plugin from npm
    npm install react-native-simplified-grid
