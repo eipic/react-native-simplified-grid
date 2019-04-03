@@ -1,0 +1,15 @@
+{
+  "name": "react-native-simplified-grid",
+  "version": "1.0.0",
+  "description": "A custom 2-column grid React native module for both IOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Grid",
+    "React-Native"
+  ],
+  "author": "Erick Kondela",
+  "license": "ISC"
+}
