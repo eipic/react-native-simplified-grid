@@ -1,6 +1,6 @@
 **** REACT NATIVE CUSTOM 2-COLUMN GRID ****
 
-![alt text](https://github.com/eipic/react-native-confirmation-prompt/blob/master/sample.jpg)
+![alt text](https://github.com/eipic/react-native-simplified-grid/blob/master/sample.jpg)
 
 
 Instructions:
